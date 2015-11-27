@@ -2,7 +2,7 @@
   "name": "catch-of-the-day",
   "version": "0.0.0",
   "description": "fish monger's page",
-  "main": "index.js",
+  "main": "script/main.js",
   "dependencies": {},
   "repository": {
     "type": "git",
